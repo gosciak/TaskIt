@@ -1,2 +1,4 @@
 # TaskIt
-bitfountain iOS TaskIt project
+==============
+
+bitfountain iOS 8 Swift course - TaskIt project
